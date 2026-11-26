@@ -14,6 +14,8 @@
 
 **Передача карт.** Вы можете отправить карту другу файлом `.mycard` или QR-кодом через системное меню «Поделиться». Это происходит только по вашему действию: в файл или QR попадают название магазина, номер карты и цвет. Файл передаётся выбранным вами способом (AirDrop, Сообщения и т. д.), разработчик его не получает и не хранит. Файл, который вы открываете в приложении, читается на устройстве и затем удаляется из временной папки.
 
+**Иконки брендов.** Иконка карты загружается напрямую с сайта, который вы указали, если сайт её предоставляет. Если адрес указан неверно или иконки нет, она не отображается. Иконки используются только для более точного определения вашей карты, не несут рекламной или иной коммерческой нагрузки и не означают связи с владельцами брендов или их одобрения. Названия и логотипы принадлежат их владельцам. Иконки хранятся только на вашем устройстве.
+
 **Сбор данных.** Приложение не собирает аналитику, не использует рекламу, не отслеживает пользователей и не требует регистрации.
 
 **Удаление данных.** Удалите карту в приложении или само приложение — все данные будут удалены с устройства.
@@ -31,6 +33,8 @@ Multycard stores your loyalty cards and shows the barcode at checkout.
 **Network.** The app sends a request only to a brand website that you entered yourself, to pick a card color. The request uses HTTPS and does not include your card data. The app works fully offline.
 
 **Sharing cards.** You can send a card to a friend as a `.mycard` file or a QR code through the system share sheet. This only happens when you choose to: the file or QR contains the store name, card number and color. It is delivered by the method you pick (AirDrop, Messages, etc.); the developer does not receive or store it. A file you open in the app is read on the device and then removed from the temporary folder.
+
+**Brand icons.** A card's icon is loaded directly from the website you entered, if that site provides one. If the address is wrong or the site has no icon, nothing is shown. Icons are used only to help identify your card more precisely, carry no advertising or other commercial purpose, and imply no affiliation with or endorsement by the brand owners. Names and logos belong to their respective owners. Icons are stored only on your device.
 
 **Data collection.** The app does not collect analytics, show ads, track users or require sign-up.
 
