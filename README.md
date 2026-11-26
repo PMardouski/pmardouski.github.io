@@ -1,6 +1,6 @@
 # Политика конфиденциальности / Privacy Policy — Multycard
 
-Дата вступления в силу / Effective date: 25.11.2026
+Дата вступления в силу / Effective date: [25.11.2026]
 
 ## Русский
 
@@ -20,7 +20,7 @@
 
 **Удаление данных.** Удалите карту в приложении или само приложение — все данные будут удалены с устройства.
 
-**Контакт.** [p.mardowski@proton.me](mailto:p.mardowski@proton.me)
+**Контакт.** [EMAIL](mailto:p.mardowski@proton.me)
 
 ## English
 
@@ -40,4 +40,4 @@ Multycard stores your loyalty cards and shows the barcode at checkout.
 
 **Deleting data.** Delete a card in the app, or delete the app — all data is removed from the device.
 
-**Contact.** [p.mardowski@proton.me](mailto:p.mardowski@proton.me)
+**Contact.** [EMAIL](mailto:p.mardowski@proton.me)
