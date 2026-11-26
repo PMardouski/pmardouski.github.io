@@ -12,6 +12,8 @@
 
 **Сеть.** Приложение отправляет запрос только к сайту бренда, адрес которого вы сами ввели, чтобы подобрать цвет карты. Запрос идёт по HTTPS. Никакие данные вашей карты в нём не передаются. Без интернета приложение работает полностью.
 
+**Передача карт.** Вы можете отправить карту другу файлом `.mycard` или QR-кодом через системное меню «Поделиться». Это происходит только по вашему действию: в файл или QR попадают название магазина, номер карты и цвет. Файл передаётся выбранным вами способом (AirDrop, Сообщения и т. д.), разработчик его не получает и не хранит. Файл, который вы открываете в приложении, читается на устройстве и затем удаляется из временной папки.
+
 **Сбор данных.** Приложение не собирает аналитику, не использует рекламу, не отслеживает пользователей и не требует регистрации.
 
 **Удаление данных.** Удалите карту в приложении или само приложение — все данные будут удалены с устройства.
@@ -27,6 +29,8 @@ Multycard stores your loyalty cards and shows the barcode at checkout.
 **Camera.** The camera is used only to scan a card barcode. Images are not saved or sent anywhere.
 
 **Network.** The app sends a request only to a brand website that you entered yourself, to pick a card color. The request uses HTTPS and does not include your card data. The app works fully offline.
+
+**Sharing cards.** You can send a card to a friend as a `.mycard` file or a QR code through the system share sheet. This only happens when you choose to: the file or QR contains the store name, card number and color. It is delivered by the method you pick (AirDrop, Messages, etc.); the developer does not receive or store it. A file you open in the app is read on the device and then removed from the temporary folder.
 
 **Data collection.** The app does not collect analytics, show ads, track users or require sign-up.
 
